@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.json
+*.bin
+tutorials/Rick_as_Discord_chatbot/cached/
+tutorials/Rick_as_Discord_chatbot/runs/
+tutorials/Rick_as_Discord_chatbot/output-small/
+runs/*
 # C extensions
 *.so
 
